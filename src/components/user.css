@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(33, 31, 31);
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+table{
+    background-color: rgb(33, 31, 31);
+    color: white;
+    text-align: left;
+    border: 1px solid white;
+    border-radius: 7px;
+}
+th{
+    text-align: center;
+    border-bottom: 2px solid white;
+    margin-left: 4px;
+}
+#no{
+    text-align: center;
+}
